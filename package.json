@@ -1,0 +1,15 @@
+{
+  "name": "level-test",
+  "version": "1.0.0",
+  "description": "Level test",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Engels Patiarroyo",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "29.7.0"
+  }
+}
